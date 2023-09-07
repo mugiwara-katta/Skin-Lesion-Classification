@@ -1,0 +1,12 @@
+Model_Name,model
+Input_Shape,"(None, 256, 256, 3)"
+Top_Layer_Dropout_Rate,0.3
+Model_Loss,<class 'str'>
+Model_Optimizer,<class 'keras.optimizers.adam.Adam'>
+LEARNING_RATE,5e-05
+Model_Metrics_Names,"['loss', 'accuracy']"
+Model_Metrics,"[<keras.metrics.base_metric.Mean object at 0x7fe8722d26e0>, <keras.metrics.base_metric.MeanMetricWrapper object at 0x7fe870726e60>]"
+Model_Trainable_Parameters_Count,3188727
+Model_Non_Trainable_Parameters_Count,910
+Model_Total_Parameters_Count,3189637
+Model_Output_Shape,"(None, 8)"

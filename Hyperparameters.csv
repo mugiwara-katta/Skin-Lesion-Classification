@@ -1,0 +1,12 @@
+Number_of_Classes,8.0
+Number_of_Train_Images,24414.0
+Number_of_Validation_Images,3851.0
+Number_of_Test_Images,3896.0
+BATCH_SIZE,32.0
+IMG_SIZE,256.0
+LEARNING_RATE,5e-05
+EPOCHS,200.0
+Number_of_Epoch_Actually_Executed,140.0
+TRAIN_STEPS_PER_EPOCH,763.0
+VAL_STEPS_PER_EPOCH,121.0
+TEST_STEPS_PER_EPOCH,122.0
